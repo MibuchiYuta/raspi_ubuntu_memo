@@ -1,0 +1,2 @@
+# raspi_ubuntu_memo
+ラスパイ3にubuntuを入れて動かした時のメモ
